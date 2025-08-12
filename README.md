@@ -125,9 +125,9 @@ The fine-tuned model is evaluated using both automatic and semantic metrics:
 
 ### 🧵 **4.2 Metric Comparison Chart**
 
-![Bert Score](images/bert_score.png)
+![Bert Score](images/bert_scores.png)
 
-![Rouge Score](images/rouge.png)
+![Rouge Score](images/rouge_scores.png)
 
 These improvements demonstrate the effectiveness of fine-tuning mT5 for Swahili question answering tasks.
 
