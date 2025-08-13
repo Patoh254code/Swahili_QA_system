@@ -114,14 +114,15 @@ The fine-tuned model is evaluated using both automatic and semantic metrics:
 
 ### 🔍 **4.1 Results**
 
-| Metric          | Baseline (mT5) | Fine-tuned mT5 |
-|-----------------|----------------|----------------|
-| ROUGE-1         |	0.0103         | 0.1487         |
-| ROUGE-L         |	0.0102         | 0.1486         |
-| BERT Precision  | 0.7439         | 0.8347         |
-| BERT Recall     | 0.7912         | 0.8282         |
-| BERT F1         |	0.7664         | 0.8310         |
-| Validation Loss |	22.6045        | 3.3745         |
+| Metric            | Baseline (mT5) | Fine-tuned mT5 |
+|-------------------|----------------|----------------|
+| ROUGE-1           | 0.0103         | 0.1487         |
+| ROUGE-L           | 0.0102         | 0.1486         |
+| BERT Precision    | 0.7439         | 0.8347         |
+| BERT Recall       | 0.7912         | 0.8282         |
+| BERT F1           | 0.7664         | 0.8310         |
+| Validation Loss   | 22.6045        | 3.3745         |
+| Semantic Accuracy | 0.0685         | 0.6519         |
 
 ### 🧵 **4.2 Metric Comparison Chart**
 
