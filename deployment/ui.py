@@ -455,7 +455,7 @@ def export_as(format_name: str, df: pd.DataFrame):
 # =========================
 st.sidebar.header("🔧 Input Options & API")
 
-api_url = st.sidebar.text_input("📡 API URL", value="https://huggingface.co/spaces/Patohh254/kenswaqachat-api/api/answer")
+api_url = st.sidebar.text_input("📡 API URL", value="https://huggingface.co/spaces/Patohh254/kenswaqachat-api/answer")
 input_method = st.sidebar.radio(
     "Choose context input method:",
     ["📝 Type directly", "📄 Upload PDF", "🌐 Enter URL"],
