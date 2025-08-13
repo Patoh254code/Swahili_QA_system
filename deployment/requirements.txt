@@ -1,0 +1,7 @@
+streamlit
+requests
+pdfplumber
+beautifulsoup4
+pandas
+fpdf
+xlsxwriter
